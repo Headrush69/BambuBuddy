@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "backup_type": "bambuddy_profiles",
+  "contents": {
+    "kprofiles": true,
+    "cloud_profiles": true,
+    "settings": true,
+    "spools": true,
+    "archives": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "spools": [
+    {
+      "id": 1,
+      "material": "PETG-CF",
+      "subtype": "CF",
+      "color_name": "Black",
+      "rgba": "000000FF",
+      "brand": "Eryone",
+      "label_weight": 1000,
+      "core_weight": 156,
+      "weight_used": 0.0,
+      "weight_locked": false,
+      "slicer_filament": "GFG98",
+      "slicer_filament_name": "Generic PETG-CF",
+      "nozzle_temp_min": null,
+      "nozzle_temp_max": null,
+      "note": null,
+      "cost_per_kg": null,
+      "tag_uid": null,
+      "tray_uuid": null,
+      "data_origin": null,
+      "tag_type": null,
+      "archived_at": null,
+      "created_at": "2026-05-17 02:59:15"
+    }
+  ]
+}
