@@ -9,7 +9,7 @@
     "save_thumbnails": "true",
     "capture_finish_photo": "true",
     "default_filament_cost": "25.0",
-    "currency": "USD",
+    "currency": "CAD",
     "energy_cost_per_kwh": "0.15",
     "energy_tracking_mode": "total",
     "disable_filament_warnings": "false",
