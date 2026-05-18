@@ -50,7 +50,7 @@
     "library_archive_mode": "ask",
     "library_disk_warning_gb": "5.0",
     "camera_view_mode": "window",
-    "preferred_slicer": "bambu_studio",
+    "preferred_slicer": "orcaslicer",
     "use_slicer_api": "false",
     "orcaslicer_api_url": "",
     "bambu_studio_api_url": "",
@@ -64,6 +64,11 @@
     "default_timelapse": "false",
     "stagger_group_size": "2",
     "stagger_interval_minutes": "5",
-    "require_plate_clear": "false"
+    "require_plate_clear": "false",
+    "spoolman_enabled": "true",
+    "spoolman_url": "",
+    "spoolman_sync_mode": "auto",
+    "spoolman_disable_weight_sync": "false",
+    "spoolman_report_partial_usage": "true"
   }
 }
