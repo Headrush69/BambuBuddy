@@ -65,7 +65,7 @@
     "stagger_group_size": "2",
     "stagger_interval_minutes": "5",
     "require_plate_clear": "false",
-    "spoolman_enabled": "true",
+    "spoolman_enabled": "false",
     "spoolman_url": "",
     "spoolman_sync_mode": "auto",
     "spoolman_disable_weight_sync": "false",
