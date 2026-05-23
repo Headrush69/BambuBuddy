@@ -24,6 +24,30 @@
       "tag_type": null,
       "archived_at": null,
       "created_at": "2026-05-17 02:59:15"
+    },
+    {
+      "id": 2,
+      "material": "Support for ABS",
+      "subtype": null,
+      "color_name": null,
+      "rgba": "FFFFFFFF",
+      "brand": "Bambu Lab",
+      "label_weight": 500,
+      "core_weight": 216,
+      "weight_used": 135.0,
+      "weight_locked": false,
+      "slicer_filament": "GFS06",
+      "slicer_filament_name": "Bambu Support for ABS",
+      "nozzle_temp_min": 240,
+      "nozzle_temp_max": 270,
+      "note": null,
+      "cost_per_kg": null,
+      "tag_uid": "EAA165B500000100",
+      "tray_uuid": "229F553F3A594671AC2DC1E1F9F4C159",
+      "data_origin": "rfid_auto",
+      "tag_type": "bambulab",
+      "archived_at": null,
+      "created_at": "2026-05-23 15:09:22"
     }
   ]
 }
